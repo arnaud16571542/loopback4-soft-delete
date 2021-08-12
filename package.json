@@ -44,7 +44,7 @@
   "peerDependencies": {
     "@loopback/boot": "^3.4.0",
     "@loopback/context": "^3.16.0",
-    "@loopback/repository": "^3.16.0"
+    "@loopback/repository": "^3.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
